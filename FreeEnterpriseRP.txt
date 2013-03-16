@@ -1,0 +1,17 @@
+"Gamemode"
+{
+	"base"		"sandbox"
+    "title"  "FreeEnterprise RP"
+    "version"   "0.0.1"
+    "menusystem"	"1"
+
+    "author_name"   "Jesus Alliman, Minnesota~Nice, Tceskellogg"
+    "author_email"  "contact.freeenterpriserp@gmail.com"
+    "author_url"    ""
+
+    "maps"  "^rp_"
+
+    "icon"  ""
+    "info"  ""
+    "hide"  "0"
+}
